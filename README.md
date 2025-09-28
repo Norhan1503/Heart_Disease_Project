@@ -1,4 +1,4 @@
-# 🫀 Heart_Disease_Project
+# :heart: Heart_Disease_Project
 ## Overview
 This project predicts the presence of heart disease using the Cleveland dataset.  
 It follows these main steps:
